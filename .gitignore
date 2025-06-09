@@ -1,0 +1,15 @@
+# files
+*.env
+
+# exe
+*.exe
+*.out
+
+# dir
+bin/
+vendor/
+coverage.out
+
+# temp files
+.DS_Store
+*.log
